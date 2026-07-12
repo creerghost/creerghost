@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vladimir
-
-# 42 Prague · UCT Prague
+# Vladimir · 42 Prague · UCT Prague
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikolaew03-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaew03/)
 [![Email](https://img.shields.io/badge/Email-creerghost%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:creerghost@gmail.com)
