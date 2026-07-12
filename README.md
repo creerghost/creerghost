@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikolaew03-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaew03/)
 [![Email](https://img.shields.io/badge/Email-creerghost%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:creerghost@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-creerghost-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/creerghost)
 [![42 Prague](https://img.shields.io/badge/42-Prague-00babc?style=flat-square&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/vlnikola)
 
 </div>
