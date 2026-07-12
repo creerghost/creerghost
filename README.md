@@ -1,5 +1,6 @@
 <div align="center">
-# 👋 Hi, I am Vladimir 
+
+👋 Hi, I'm Vladimir
 
 # 42 Prague · UCT Prague
 
