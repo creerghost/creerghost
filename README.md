@@ -66,17 +66,4 @@
 
 ---
 
-## 🎓 Education & Training
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏛  UCT Prague                                                  │
-│      MSc · Sensorics & Cybernetics                              │
-│      (BSc · Nano & Microtechnology, Chemical Engineering)       │
-│                                                                  │
-│  🏫  42 Prague                          started Nov 2025        │
-│      Core Curriculum — C & systems programming                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 </div>
