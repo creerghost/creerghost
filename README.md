@@ -62,12 +62,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**RAG_against_the_machine**](https://github.com/creerghost/RAG_against_the_machine) | RAG question-answering over the vLLM codebase — hand-written chunking & ranking, local LLM answers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HF](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| [**RAG_against_the_machine**](https://github.com/creerghost/RAG_against_the_machine) | RAG question-answering over the vLLM codebase — hand-written chunking & ranking, local LLM answers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HF](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | [**codexion**](https://github.com/creerghost/codexion) | Multi-threading C project — concurrency and synchronization | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [**call_me_maybe**](https://github.com/creerghost/call_me_maybe) | Constrained decoding engine from scratch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**a_maze_ing_v2**](https://github.com/creerghost/a_maze_ing_v2) | Maze generation & solving algorithms | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**fly-in**](https://github.com/creerghost/fly-in) | Multi-agent pathfinding project with multiple constraints | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**python_piscine_42**](https://github.com/creerghost/python_piscine_42) | Solutions from the 42 Python Piscine | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**call_me_maybe**](https://github.com/creerghost/call_me_maybe) | Constrained decoding engine from scratch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| [**fly-in**](https://github.com/creerghost/fly-in) | Multi-agent pathfinding project with multiple constraints | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
