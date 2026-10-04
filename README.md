@@ -34,9 +34,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/HF_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![pygame](https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=python&logoColor=white)
+
+### Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -57,6 +61,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**RAG_against_the_machine**](https://github.com/creerghost/RAG_against_the_machine) | RAG question-answering over the vLLM codebase — hand-written chunking & ranking, local LLM answers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HF](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | [**codexion**](https://github.com/creerghost/codexion) | Multi-threading C project — concurrency and synchronization | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [**call_me_maybe**](https://github.com/creerghost/call_me_maybe) | Constrained decoding engine from scratch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**a_maze_ing_v2**](https://github.com/creerghost/a_maze_ing_v2) | Maze generation & solving algorithms | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
